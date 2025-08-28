@@ -1,0 +1,2 @@
+MyTokenTransferTest:test_transfer() (gas: 38068)
+MyTokenTransferTest:test_transferFuzz(uint256) (runs: 500, μ: 39701, ~: 41154)
